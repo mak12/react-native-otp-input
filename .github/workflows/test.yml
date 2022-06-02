@@ -21,4 +21,6 @@ jobs:
     - uses: actions/checkout@v1
     - name: Run Unit Test
       run: npm install
+    - run: npm run build
+
       

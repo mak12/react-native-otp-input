@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "declaration": true,
-    // "outDir": "./dist",
+    "outDir": "./dist",
     "strict": true,
     "jsx": "react-native",
     "target": "es2019",
